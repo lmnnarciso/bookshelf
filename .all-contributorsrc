@@ -347,6 +347,61 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Aprillion",
+      "name": "Peter Hozák",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1087670?v=4",
+      "profile": "http://peter.hozak.info/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "cxc421",
+      "name": "Chris Chuang",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/18439296?v=4",
+      "profile": "https://github.com/cxc421",
+      "contributions": [
+        "code",
+        "bug"
+      ]
+    },
+    {
+      "login": "ValentinH",
+      "name": "Valentin Hervieu",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2678610?v=4",
+      "profile": "https://valentin-hervieu.fr",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "SamiTriki",
+      "name": "~Sami Triki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6273120?v=4",
+      "profile": "http://triki.io",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "falldowngoboone",
+      "name": "Ryan Boone",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3603771?v=4",
+      "profile": "https://github.com/falldowngoboone",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "juanlatorre",
+      "name": "Juan Latorre",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4494526?v=4",
+      "profile": "https://juanlatorre.cl/",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
